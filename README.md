@@ -6,3 +6,10 @@ Develop a Python-based coffee shop recommendation system that analyzes an Excel 
 
 ## Dataset used
 - <a href="https://github.com/aa6413-tech/Coffee-Shop-Recommenders/blob/main/CoffeeShopRatingInfo.xlsx">Dataset<a/>
+
+## Questions (KPIs)
+- What amenities appear most often among recommended shops?
+- Which coffee shops appear most frequently in recommendation results?
+- Are users more likely to prefer specialty coffee shops or chain locations?
+
+- Dashboard interaction 
