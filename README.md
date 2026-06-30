@@ -30,7 +30,7 @@ Develop a Python-based coffee shop recommendation system that analyzes an Excel 
 
 ## Project insight
 - Coffee shops with widley desired amenities, such as wheelchair-accessibility, Wifi, and dog-friendly enviroments, appeared more frequently across recommendation scenarios.
-- Coffee shops with a broad selection of coffee types were recommended more consitently than coffee shops that offered a specialized, limited menu. 
+- Coffee shops with a broad selection of coffee types were recommended more consistently than coffee shops that offered a specialized, limited menu. 
 - Coffee shops combining a diverse and broad selections of amenities, menu options, and consistently high cutomer ratings achieved the strongest overall recommendation rankings, while niche or highly specialized shops appeared less frequently in top recommendations.
 
 ## Final Conclusion
