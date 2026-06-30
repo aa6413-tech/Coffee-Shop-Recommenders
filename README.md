@@ -12,4 +12,4 @@ Develop a Python-based coffee shop recommendation system that analyzes an Excel 
 - Which coffee shops appear most frequently in recommendation results?
 - Are users more likely to prefer specialty coffee shops or chain locations?
 
-- Dashboard interaction 
+- Dashboard interaction <a href="https://github.com/aa6413-tech/Coffee-Shop-Recommenders/blob/main/Recommender_image.png">View Dashboard</a>
